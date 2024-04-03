@@ -187,3 +187,16 @@
 如果想为此项目贡献一份力的话，请根据表格模式添加完院校后确保表格右侧 Average 四项数值为 50（最好是50.00）。这就是上方的 R 计算出的平均值。总之就是添加完后可以帮忙微调 R，至于如何调整可以参考[知乎的这篇回答](https://zhuanlan.zhihu.com/p/521218910)。在处理完之后正常提交，**记得在备注栏填写所用数据的来源（链接形式）**、警告（存疑点）和使用的汇率。
 
 感谢各位的支持和参与！
+
+---
+
+Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+
+This work is licensed under a
+[Creative Commons Attribution 4.0 International License][cc-by].
+
+[![CC BY 4.0][cc-by-image]][cc-by]
+
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[cc-by-image]: https://i.creativecommons.org/l/by/4.0/88x31.png
+[cc-by-shield]: https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg
