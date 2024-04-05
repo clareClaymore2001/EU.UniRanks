@@ -190,6 +190,19 @@
 
 ---
 
+# 项目进度
+
+以统计完全上榜 CS Rankings 或 Nature Index Share 大于等于 1.00 的院校为标准：
+
+- [x] 瑞士（CH）
+- [x] *比利时（BE）
+- [x] 荷兰（NL）
+- [x] 丹麦（DK）
+
+*部分院校数据缺失
+
+---
+
 Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
